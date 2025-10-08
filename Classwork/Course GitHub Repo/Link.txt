@@ -1,4 +1,0 @@
-Blender Python Scripts Repo
----------------------------
-
-https://github.com/aminabuzahra/Blender-Python-Scripts
